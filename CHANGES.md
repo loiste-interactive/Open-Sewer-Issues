@@ -24,6 +24,7 @@
 
 * Added detail to off-limit areas
 * Added more item spawns
+* Made it possible to obtain lockpicks.
 * Improved farmland collisions
 * Finished farm abowe O-Market
 * Fixed collision issues near Osmo Olut factory (issue [#25](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/25))
