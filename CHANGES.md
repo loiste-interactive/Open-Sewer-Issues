@@ -22,6 +22,7 @@
 ## level
 
 * Added detail to off-limit areas
+* Added more item spawns
 * Fixed collision issues near Osmo Olut factory (issue [#25](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/25))
 * Fixed collision issues near barge (issue [#37](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/37))
 * Fixed collision issues near church (issue [#44](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/44))
