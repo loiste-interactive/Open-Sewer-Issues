@@ -28,3 +28,4 @@
 * Fixed collision issues near barge (issue [#37](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/37))
 * Fixed collision issues near church (issue [#44](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/44))
 * Removed unpickable coins (issue [#42](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/42))
+* Removed random objects near market
