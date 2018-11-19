@@ -9,6 +9,7 @@
 * Death now opens pausemenu (issue [#12](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/12))
 * Added an effect when player takes damage.
 * Added cookable soups.
+* Added construction material items.
 * Added sound when breaking bottles.
 * Fixed crafting menu UI  (issue [#32](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/32))
 * Fixed issues when breaking bottles.
