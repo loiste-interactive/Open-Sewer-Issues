@@ -7,6 +7,7 @@
 ## general
 
 * Death now opens pausemenu (issue [#12](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/12))
+* Adjusted hunger and thirst rate.
 * Added an effect when player takes damage.
 * Added cookable soups.
 * Added construction material items.
