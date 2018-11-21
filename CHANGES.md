@@ -22,6 +22,7 @@
 
 ## level
 
+* Added more item spawns
 * Added detail to off-limit areas
 * Added detail to tenement opposite of Bazaar
 * Added more item spawns
