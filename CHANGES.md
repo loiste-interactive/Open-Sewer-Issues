@@ -23,11 +23,12 @@
 ## level
 
 * Added detail to off-limit areas
+* Added detail to tenement opposite of Bazaar
 * Added more item spawns
 * Made it possible to obtain lockpicks.
 * Improved farmland collisions
 * Finished second checkpoint near parking garage
-* Finished farm abowe O-Market
+* Finished farm above O-Market
 * Fixed collision issues near Osmo Olut factory (issue [#25](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/25))
 * Fixed collision issues near barge (issue [#37](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/37))
 * Fixed collision issues near church (issue [#44](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/44))
