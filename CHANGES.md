@@ -3,6 +3,7 @@
 ## general
 
 * Savegames
+* Added models for few items.
 
 # 22.11.2018
 
