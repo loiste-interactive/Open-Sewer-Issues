@@ -8,7 +8,7 @@
 ## level
 
 * Fixed collision issues in an unfinished shack (issue [#66](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/66))
-
+* Fixed collision issues an alley near bazaar (issue [#64](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/64))
 
 # 22.11.2018
 
