@@ -5,6 +5,11 @@
 * Savegames
 * Added models for few items.
 
+## level
+
+* Fixed collision issues in an unfinished shack (issue [#66](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/66))
+
+
 # 22.11.2018
 
 ## main menu
