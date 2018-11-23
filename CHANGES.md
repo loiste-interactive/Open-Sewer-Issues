@@ -12,6 +12,10 @@
 * Fixed tooltip getting stuck on screen(issue [#76](https://github.com/loiste-interactive/Open-Sewer-Issues/issues76))
 * Fixed tenement marker vanishing when finding other locations (issue [#61](https://github.com/loiste-interactive/Open-Sewer-Issues/issues61))
 
+## quests
+
+* Tenement investigation quest can now be completed. (issue [#63](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/63))
+
 ## level
 
 * Added map marker for Rob-In repair shop.
