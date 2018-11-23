@@ -2,6 +2,7 @@
 
 ## general
 
+* Added an effect when consuming Huribo Evilbear
 * Added a message when player is not tired enough to use a bed. (issue [#49](https://github.com/loiste-interactive/Open-Sewer-Issues/issues4449))
 * Added models for few items.
 * Added a clock indicating time when asleep 
