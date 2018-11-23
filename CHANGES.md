@@ -4,6 +4,7 @@
 
 * Savegames
 * Added models for few items.
+* Fixed item UIs opening to previously visited tab (issue [#74](https://github.com/loiste-interactive/Open-Sewer-Issues/issues74))
 
 ## level
 
