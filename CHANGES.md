@@ -5,6 +5,7 @@
 * Added a message when player is not tired enough to use a bed. (issue [#49](https://github.com/loiste-interactive/Open-Sewer-Issues/issues4449))
 * Added models for few items.
 * Added a clock indicating time when asleep 
+* Giving Ville Sköldganster a whiskey actually gives him a whiskey now (and requires whiskey to exist in player inventory).
 * Items now spawn on ground (issue [#75](https://github.com/loiste-interactive/Open-Sewer-Issues/issues75))
 * Changed withdrawal symptoms to increase depression instead of damaging player
 * Fixed some items being unable to drop
