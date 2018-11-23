@@ -19,6 +19,7 @@
 
 ## level
 
+* Added trader at industrial area.
 * Added map marker for Rob-In repair shop.
 * Added every possible item for testing.
 * General trader now sells and accepts more stuff.
