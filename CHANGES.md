@@ -8,6 +8,7 @@
 * Items now spawn on ground (issue [#75](https://github.com/loiste-interactive/Open-Sewer-Issues/issues75))
 * Changed withdrawal symptoms to increase depression instead of damaging player
 * Fixed item UIs opening to previously visited tab (issue [#74](https://github.com/loiste-interactive/Open-Sewer-Issues/issues74))
+* Fixed tenement marker vanishing when finding other locations (issue [#61](https://github.com/loiste-interactive/Open-Sewer-Issues/issues61))
 
 ## level
 
