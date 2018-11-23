@@ -13,7 +13,8 @@
 ## level
 
 * Added map marker for Rob-In repair shop.
-* Added every possible item for testing
+* Added every possible item for testing.
+* General trader now sells and accepts more stuff.
 * Fixed collision issues in an unfinished shack (issue [#66](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/66))
 * Fixed collision issues an alley near bazaar (issue [#64](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/64))
 * Fixed various collision issues.
