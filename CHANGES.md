@@ -29,7 +29,7 @@
 * Fixed various collision issues.
 
 
-# 22.11.2018
+# 22.11.2018 (0.0.1)
 
 ## main menu
 
