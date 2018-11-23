@@ -5,6 +5,7 @@
 * Added a message when player is not tired enough to use a bed. (issue [#49](https://github.com/loiste-interactive/Open-Sewer-Issues/issues4449))
 * Added models for few items.
 * Added a clock indicating time when asleep 
+* Items now spawn on ground (issue [#75](https://github.com/loiste-interactive/Open-Sewer-Issues/issues75))
 * Changed withdrawal symptoms to increase depression instead of damaging player
 * Fixed item UIs opening to previously visited tab (issue [#74](https://github.com/loiste-interactive/Open-Sewer-Issues/issues74))
 
