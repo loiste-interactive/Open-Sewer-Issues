@@ -2,6 +2,7 @@
 
 ## general
 
+* Added a few starting items for player
 * Added ability to save and load game
 * Added an effect when consuming Huribo Evilbear
 * Added a message when player is not tired enough to use a bed. (issue [#49](https://github.com/loiste-interactive/Open-Sewer-Issues/issues4449))
