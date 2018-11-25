@@ -15,6 +15,7 @@
 * Fixed item UIs opening to previously visited tab (issue [#74](https://github.com/loiste-interactive/Open-Sewer-Issues/issues74))
 * Fixed tooltip getting stuck on screen(issue [#76](https://github.com/loiste-interactive/Open-Sewer-Issues/issues76))
 * Fixed tenement marker vanishing when finding other locations (issue [#61](https://github.com/loiste-interactive/Open-Sewer-Issues/issues61))
+* Fixed map does not accurately reflect which direction you are facing in first-person mode(issue [#43](https://github.com/loiste-interactive/Open-Sewer-Issues/issues43))
 
 ## quests
 
