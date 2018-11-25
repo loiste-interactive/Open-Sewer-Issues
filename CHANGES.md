@@ -11,6 +11,7 @@
 * Giving Ville Sköldganster a whiskey actually gives him a whiskey now (and requires whiskey to exist in player inventory).
 * Changed withdrawal symptoms to increase depression instead of damaging player
 * Fixed some items being unable to drop
+* Fixed some dialog typos.
 * Fixed border inspectioner not using player's name(issue [#10](https://github.com/loiste-interactive/Open-Sewer-Issues/issues10))
 * Fixed map does not accurately reflect which direction you are facing in first-person mode(issue [#43](https://github.com/loiste-interactive/Open-Sewer-Issues/issues43))
 * Fixed tenement marker vanishing when finding other locations (issue [#61](https://github.com/loiste-interactive/Open-Sewer-Issues/issues61))
