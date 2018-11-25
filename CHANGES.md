@@ -13,6 +13,7 @@
 * Fixed some items being unable to drop
 * Fixed some dialog typos.
 * Fixed border inspectioner not using player's name(issue [#10](https://github.com/loiste-interactive/Open-Sewer-Issues/issues10))
+* Fixed dialogue UI scaling(issue [#34](https://github.com/loiste-interactive/Open-Sewer-Issues/issues34))
 * Fixed map does not accurately reflect which direction you are facing in first-person mode(issue [#43](https://github.com/loiste-interactive/Open-Sewer-Issues/issues43))
 * Fixed tenement marker vanishing when finding other locations (issue [#61](https://github.com/loiste-interactive/Open-Sewer-Issues/issues61))
 * Fixed item UIs opening to previously visited tab (issue [#74](https://github.com/loiste-interactive/Open-Sewer-Issues/issues74))
