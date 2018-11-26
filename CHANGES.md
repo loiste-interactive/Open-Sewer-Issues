@@ -7,18 +7,18 @@
 * Added an effect when consuming Huribo Evilbear
 * Added models for few items.
 * Added a clock indicating time when asleep 
-* Added a message when player is not tired enough to use a bed. (issue [#49](https://github.com/loiste-interactive/Open-Sewer-Issues/issues49))
+* Added a message when player is not tired enough to use a bed. (issue [#49](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/49))
 * Giving Ville Sköldganster a whiskey actually gives him a whiskey now (and requires whiskey to exist in player inventory).
 * Changed withdrawal symptoms to increase depression instead of damaging player
 * Fixed some items being unable to drop
 * Fixed some dialog typos.
-* Fixed border inspectioner not using player's name(issue [#10](https://github.com/loiste-interactive/Open-Sewer-Issues/issues10))
-* Fixed dialogue UI scaling(issue [#34](https://github.com/loiste-interactive/Open-Sewer-Issues/issues34))
-* Fixed map does not accurately reflect which direction you are facing in first-person mode(issue [#43](https://github.com/loiste-interactive/Open-Sewer-Issues/issues43))
-* Fixed tenement marker vanishing when finding other locations (issue [#61](https://github.com/loiste-interactive/Open-Sewer-Issues/issues61))
-* Fixed item UIs opening to previously visited tab (issue [#74](https://github.com/loiste-interactive/Open-Sewer-Issues/issues74))
-* Items now spawn on ground (issue [#75](https://github.com/loiste-interactive/Open-Sewer-Issues/issues75))
-* Fixed tooltip getting stuck on screen(issue [#76](https://github.com/loiste-interactive/Open-Sewer-Issues/issues76))
+* Fixed border inspectioner not using player's name(issue [#10](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/10))
+* Fixed dialogue UI scaling(issue [#34](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/34))
+* Fixed map does not accurately reflect which direction you are facing in first-person mode(issue [#43](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/43))
+* Fixed tenement marker vanishing when finding other locations (issue [#61](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/61))
+* Fixed item UIs opening to previously visited tab (issue [#74](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/74))
+* Items now spawn on ground (issue [#75](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/75))
+* Fixed tooltip getting stuck on screen(issue [#76](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/76))
 
 ## quests
 
