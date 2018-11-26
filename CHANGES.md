@@ -1,5 +1,9 @@
 # Upcoming (0.0.2)
 
+## main menu
+
+* Added controls menu
+
 ## general
 
 * Added a few starting items for player
