@@ -25,6 +25,7 @@
 * Fixed item UIs opening to previously visited tab (issue [#74](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/74))
 * Items now spawn on ground (issue [#75](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/75))
 * Fixed tooltip getting stuck on screen(issue [#76](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/76))
+* Fixed pausing and unpausing during dialogue breaking the game(issue [#86](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/86))
 
 ## quests
 
