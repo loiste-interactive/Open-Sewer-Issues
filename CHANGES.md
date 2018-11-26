@@ -14,6 +14,7 @@
 * Added a message when player is not tired enough to use a bed. (issue [#49](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/49))
 * Giving Ville Sköldganster a whiskey actually gives him a whiskey now (and requires whiskey to exist in player inventory).
 * Changed withdrawal symptoms to increase depression instead of damaging player
+* Changed pressing escape to close inventory first (issue [#79](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/79))
 * Fixed some items being unable to drop
 * Fixed some dialog typos.
 * Fixed player camera base conversation (issue [#24](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/24))
