@@ -7,7 +7,6 @@
 # 28.11.2018 quickfix (0.0.2)
 
 * Fixed broken cursor
-* Added textures for introbus.
 
 # 27.11.2018 (0.0.2)
 
