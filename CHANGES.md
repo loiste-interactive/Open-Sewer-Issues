@@ -3,7 +3,11 @@
 ## general
 
 * Adjusted tenement upgrade prices.
- 
+
+# 28.11.2018 quickfix (0.0.2)
+
+* Fixed broken cursor
+
 # 27.11.2018 (0.0.2)
 
 ## main menu
