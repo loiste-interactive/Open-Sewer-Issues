@@ -1,4 +1,6 @@
-# Upcoming (0.0.2)
+# Upcoming
+ 
+#27.11.2018 (0.0.2)
 
 ## main menu
 
