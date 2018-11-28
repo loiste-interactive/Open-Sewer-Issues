@@ -3,6 +3,7 @@
 ## general
 
 * Adjusted tenement upgrade prices.
+* Adjusted item prices and effects
 
 # 28.11.2018 quickfix (0.0.2)
 
