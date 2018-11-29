@@ -9,7 +9,7 @@
 
 ## dialogue
 
-* Banker and innkeeper has learned to speak english (issue [#50](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/50))
+* Banker and innkeeper have learned to speak english (issue [#50](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/50))
 
 ## intro
 
