@@ -6,13 +6,14 @@
 * Adjusted item prices and effects
 * Adjusted falldamage (issue [#97](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/97))
 
-# 28.11.2018 quickfix (0.0.2)
-
-* Fixed broken cursor
-
 ## level
 
 * Fixed collision issues on roads (issue [#101](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/101))
+
+
+# 28.11.2018 quickfix (0.0.2)
+
+* Fixed broken cursor
 
 # 27.11.2018 (0.0.2)
 
