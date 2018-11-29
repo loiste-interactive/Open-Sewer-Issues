@@ -19,6 +19,7 @@
 ## level
 
 * Fixed collision issues on roads (issue [#101](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/101))
+* Fixed locked doors appearing as unlocked (issue [#107](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/107))
 
 
 # 28.11.2018 quickfix (0.0.2)
