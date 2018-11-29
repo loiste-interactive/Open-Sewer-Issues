@@ -4,6 +4,7 @@
 
 * Adjusted tenement upgrade prices.
 * Adjusted item prices and effects
+* Adjusted falldamage (issue [#97](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/97))
 
 # 28.11.2018 quickfix (0.0.2)
 
