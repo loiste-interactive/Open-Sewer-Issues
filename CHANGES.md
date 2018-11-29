@@ -7,6 +7,7 @@
 * Adjusted item prices and effects
 * Adjusted falldamage (issue [#97](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/97))
 * Fixed soundscapes not activating upon loading a save (issue [#93](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/93))
+* Fixed second game loading not working (issue [#94](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/94))
 
 ## dialogue
 
