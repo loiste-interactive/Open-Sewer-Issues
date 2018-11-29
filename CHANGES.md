@@ -7,6 +7,10 @@
 * Adjusted item prices and effects
 * Adjusted falldamage (issue [#97](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/97))
 
+## intro
+
+* Added textures for a bus (issue [#14](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/14))
+
 ## level
 
 * Fixed collision issues on roads (issue [#101](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/101))
