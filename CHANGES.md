@@ -2,6 +2,7 @@
 
 ## general
 
+* Added icons for items missing one.
 * Adjusted tenement upgrade prices.
 * Adjusted item prices and effects
 * Adjusted falldamage (issue [#97](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/97))
