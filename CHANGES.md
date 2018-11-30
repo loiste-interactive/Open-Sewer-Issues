@@ -9,6 +9,7 @@
 * Fixed soundscapes not activating upon loading a save (issue [#93](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/93))
 * Fixed second game loading not working (issue [#94](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/94))
 * Fixed loadscreen unfading before loading is completed (issue [#91](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/91))
+* Fixed ability to steal from vendors by double clicking an item (issue [#109](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/109))
 
 ## dialogue
 
