@@ -10,6 +10,7 @@
 * Fixed second game loading not working (issue [#94](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/94))
 * Fixed loadscreen unfading before loading is completed (issue [#91](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/91))
 * Fixed ability to steal from vendors by double clicking an item (issue [#109](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/109))
+* Saves now carry player rotation (issue [#103](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/103))
 
 ## dialogue
 
