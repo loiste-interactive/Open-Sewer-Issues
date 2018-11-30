@@ -12,6 +12,10 @@
 * Fixed ability to steal from vendors by double clicking an item (issue [#109](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/109))
 * Saves now carry player rotation (issue [#103](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/103))
 
+## quests
+
+* Added "tutorial" moonshining quest.
+
 ## dialogue
 
 * Banker and innkeeper have learned to speak english (issue [#50](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/50))
