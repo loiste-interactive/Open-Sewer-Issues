@@ -22,6 +22,10 @@
 
 * Banker and innkeeper have learned to speak english (issue [#50](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/50))
 
+## main menu
+
+* Fixed a typo (issue [#115](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/115))
+
 ## intro
 
 * Added textures for a bus (issue [#14](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/14))
