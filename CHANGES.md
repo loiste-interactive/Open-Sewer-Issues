@@ -12,6 +12,7 @@
 * Fixed ability to steal from vendors by double clicking an item (issue [#109](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/109))
 * Saves now carry player rotation (issue [#103](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/103))
 * Fixed camera jutter when player runs towards camera (issue [#111](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/111))
+* Added autosave upon waking up.
 
 ## quests
 
