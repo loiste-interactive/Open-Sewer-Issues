@@ -13,6 +13,7 @@
 * Saves now carry player rotation (issue [#103](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/103))
 * Fixed camera jutter when player runs towards camera (issue [#111](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/111))
 * Added autosave when waking up (Still missing from UI).
+* Fixed player identity not saving and loading properly (issue [#110](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/110))
 
 ## quests
 
