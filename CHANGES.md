@@ -4,6 +4,7 @@
 
 * Added caffeine effect
 * Fixed "landing animation" triggering every time when player is even a little in air (issue [#62](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/62))
+* Fixed every load starting discussion with Axel Nordberg (issue [#92](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/92))
 
 # 1.12.2018 (0.0.3)
 
