@@ -1,5 +1,9 @@
 # Upcoming
 
+## general
+
+* Added caffeine effect
+
 # 1.12.2018 (0.0.3)
 
 ## general
