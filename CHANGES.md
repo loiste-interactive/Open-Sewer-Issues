@@ -1,5 +1,7 @@
 # Upcoming
 
+# 1.12.2018 (0.0.3)
+
 ## general
 
 * Added icons for items missing one.
