@@ -6,7 +6,7 @@
 * Fixed "landing animation" triggering every time when player is even a little in air (issue [#62](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/62))
 * Fixed every load starting discussion with Axel Nordberg (issue [#92](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/92))
 * Fixed possibility to skip first dialog with border inspector (issue [#29](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/29))
-* Fixed " " being valid name (issue [#53](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/53))
+* Fixed " " being a valid name (issue [#53](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/53))
 * Fixed active brewing barrels breaking time upon save game load (issue [#143](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/143))
 * Fixed new games breaking when returning to main menu (issue [#121](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/121))
 * Fixed "Equip" not working.
