@@ -10,6 +10,7 @@
 * Fixed active brewing barrels breaking time upon save game load (issue [#143](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/143))
 * Fixed new games breaking when returning to main menu (issue [#121](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/121))
 * Fixed "Equip" not working.
+* Now tenants pay rent every day.
 
 # 1.12.2018 (0.0.3)
 
