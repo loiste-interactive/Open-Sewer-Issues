@@ -8,6 +8,7 @@
 * Fixed possibility to skip first dialog with border inspector (issue [#29](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/29))
 * Fixed " " being valid name (issue [#53](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/53))
 * Fixed active brewing barrels breaking time upon save game load (issue [#143](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/143))
+* Fixed new games breaking when returning to main menu (issue [#121](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/121))
 
 # 1.12.2018 (0.0.3)
 
