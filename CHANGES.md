@@ -2,6 +2,7 @@
 
 ## general
 
+* Added sleeping pill item.
 * Added a punishment for stealing.
 * Added caffeine effect
 * Fixed typos in item names.
@@ -20,6 +21,7 @@
 
 * Removed debugging item pile
 * Fixed various minor issues.
+* Added prison cell.
 * Stocked up O-Market (issue [#129](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/129))
 
 # 1.12.2018 (0.0.3)
