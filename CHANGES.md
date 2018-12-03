@@ -4,6 +4,7 @@
 
 * Added a punishment for stealing.
 * Added caffeine effect
+* Fixed typos in item names.
 * Fixed "landing animation" triggering every time when player is even a little in air (issue [#62](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/62))
 * Fixed every load starting discussion with Axel Nordberg (issue [#92](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/92))
 * Fixed possibility to skip first dialog with border inspector (issue [#29](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/29))
