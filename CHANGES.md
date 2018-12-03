@@ -12,6 +12,10 @@
 * Fixed "Equip" not working.
 * Now tenants pay rent every day.
 
+## level
+
+* Removed debugging item pile
+
 # 1.12.2018 (0.0.3)
 
 ## general
