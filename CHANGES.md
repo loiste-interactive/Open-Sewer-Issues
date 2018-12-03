@@ -17,6 +17,10 @@
 * Now tenants pay rent every day.
 * Fixed stats depeleting fast after waking up.
 
+## quests
+
+* Added bottle collecting quest.
+
 ## level
 
 * Removed debugging item pile
