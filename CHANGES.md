@@ -10,12 +10,15 @@
 * Fixed " " being a valid name (issue [#53](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/53))
 * Fixed active brewing barrels breaking time upon save game load (issue [#143](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/143))
 * Fixed new games breaking when returning to main menu (issue [#121](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/121))
+* Fixed unpickable items (issue [#150](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/150))
 * Fixed "Equip" not working.
 * Now tenants pay rent every day.
 
 ## level
 
 * Removed debugging item pile
+* Fixed various minor issues.
+* Stocked up O-Market (issue [#129](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/129))
 
 # 1.12.2018 (0.0.3)
 
