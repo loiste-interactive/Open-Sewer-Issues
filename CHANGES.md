@@ -19,7 +19,7 @@
 
 ## quests
 
-* Added bottle collecting quest.
+* Added a bottle collecting quest.
 
 ## level
 
