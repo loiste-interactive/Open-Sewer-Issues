@@ -1,5 +1,9 @@
 # Upcoming
 
+## general
+
+* Fixed an issue with wrong player identity carrying over to main menu.
+
 # 4.12.2018 (0.0.4)
 
 ## general
