@@ -3,6 +3,7 @@
 ## general
 
 * Fixed an issue with wrong player identity carrying over to main menu.
+* Disabled autosaving due related issues.
 
 # 4.12.2018 (0.0.4)
 
