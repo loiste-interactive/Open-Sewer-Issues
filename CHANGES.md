@@ -1,5 +1,7 @@
 # Upcoming
 
+# 4.12.2018 (0.0.4)
+
 ## general
 
 * Added sleeping pill item.
