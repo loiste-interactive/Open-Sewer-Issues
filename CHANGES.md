@@ -17,7 +17,7 @@
 * Fixed unpickable items (issue [#150](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/150))
 * Fixed "Equip" not working.
 * Now tenants pay rent every day.
-* Fixed stats depeleting fast after waking up.
+* Fixed stats depleting fast after waking up.
 
 ## quests
 
