@@ -9,6 +9,10 @@
 
 * Fixed "A path to riches" quest updating state even when quest is not assigned.
 
+## leval
+
+* Fixed inn wc being a death trap. (issue [#160](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/160))
+
 # 4.12.2018 (0.0.4)
 
 ## general
