@@ -8,6 +8,8 @@
 
 ## general
 
+* Fixed new game after a couple of loads being broken  (issue [#161](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/161))
+* Added a key and UI tutorial.
 * Fixed map markers not apprearing if map tab hasn't been visited before. (issue [#173](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/173))
 * Added a key and UI tutorial.
 * Added new item icons
