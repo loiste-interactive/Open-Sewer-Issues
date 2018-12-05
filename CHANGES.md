@@ -3,6 +3,8 @@
 ## general
 
 * Prison guard now gives two water bottle more. 
+* Adjusted control tutorial.
+* Fixed mapmarkers (issue [#177](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/177))
 
 ## dialogue
 
