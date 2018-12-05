@@ -2,6 +2,9 @@
 
 ## general
 
+## dialogue
+
+* Fixed this: https://media.discordapp.net/attachments/510482630278512640/519854716709240842/unknown.png
 
 
 # 5.12.2018 (0.0.5)
