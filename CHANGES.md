@@ -5,6 +5,10 @@
 * Fixed an issue with wrong player identity carrying over to main menu.
 * Disabled autosaving due related issues.
 
+## quests
+
+* Fixed "A path to riches" quest updating state even when quest is not assigned.
+
 # 4.12.2018 (0.0.4)
 
 ## general
