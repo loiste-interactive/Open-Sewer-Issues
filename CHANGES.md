@@ -6,6 +6,7 @@
 * Disabled autosaving due related issues.
 * Disabled tasks tab being broken and unfinished, you should now be able to ask from characters what they still need.
 * Fixed characters triggering special events on second level load (including Rob's tenement upgrade menu) (issue [#172](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/172))
+* Fixed special item events not triggering (including sleeping pills, piggybanks and etc...) 
 
 ## quests
 
