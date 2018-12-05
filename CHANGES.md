@@ -19,6 +19,7 @@
 * Added culling planes into player tenement.
 * Added map marker for the sauna.
 * Added slumm on the long street, this will cut rendering distance, thus imporving performance.
+* Removed and dimmed some lights from Osmo Olut factory windows to reduce rendering cost.
 
 # 4.12.2018 (0.0.4)
 
