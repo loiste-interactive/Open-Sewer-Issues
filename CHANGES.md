@@ -3,7 +3,11 @@
 ## general
 
 * Added a key and UI tutorial.
+* Added new item icons
 * Broke characters system (being re-worked).
+* Added new dialogue
+* Fixed typos in dialogue
+* Fixed banner
 * Fixed an issue with wrong player identity carrying over to main menu.
 * Disabled autosaving due related issues.
 * Disabled tasks tab being broken and unfinished, you should now be able to ask from characters what they still need.
@@ -18,13 +22,14 @@
 
 * Added a new characters.
 * Added a name for characters missing one.
-* Added an exit sign to guardhouse.
+* Added an exit sign to guardhouse
 * Fixed inn wc being a death trap. (issue [#160](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/160))
 * Fixed shops not openeing when they should.
 * Added culling planes into player tenement.
 * Added map marker for the sauna.
 * Added slumm on the long street, this will cut rendering distance, thus imporving performance.
 * Removed and dimmed some lights from Osmo Olut factory windows to reduce rendering cost.
+* Changed tenement marker color
 
 # 4.12.2018 (0.0.4)
 
