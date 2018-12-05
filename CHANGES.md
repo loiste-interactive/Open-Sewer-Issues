@@ -2,12 +2,13 @@
 
 ## general
 
-* Fixed map markers not apprearing if map tab hasn't been visited before. (issue [#173](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/173))
+
 
 # Upcoming (0.0.5)
 
 ## general
 
+* Fixed map markers not apprearing if map tab hasn't been visited before. (issue [#173](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/173))
 * Added a key and UI tutorial.
 * Added new item icons
 * Broke characters system (being re-worked).
