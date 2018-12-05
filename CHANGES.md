@@ -3,6 +3,7 @@
 ## general
 
 * Added a key and UI tutorial.
+* Broke characters system (being re-worked).
 * Fixed an issue with wrong player identity carrying over to main menu.
 * Disabled autosaving due related issues.
 * Disabled tasks tab being broken and unfinished, you should now be able to ask from characters what they still need.
