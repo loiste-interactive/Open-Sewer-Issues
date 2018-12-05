@@ -17,6 +17,7 @@
 * Fixed inn wc being a death trap. (issue [#160](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/160))
 * Fixed shops not openeing when they should.
 * Added culling planes into player tenement.
+* Added map marker for the sauna.
 
 # 4.12.2018 (0.0.4)
 
