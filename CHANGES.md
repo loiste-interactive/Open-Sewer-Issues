@@ -2,6 +2,8 @@
 
 ## general
 
+* Prison guard now gives two water bottle more. 
+
 ## dialogue
 
 * Fixed this: https://media.discordapp.net/attachments/510482630278512640/519854716709240842/unknown.png
