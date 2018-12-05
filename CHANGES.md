@@ -16,6 +16,8 @@
 
 ## level
 
+* Added a new characters.
+* Added a name for characters missing one.
 * Added an exit sign to guardhouse.
 * Fixed inn wc being a death trap. (issue [#160](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/160))
 * Fixed shops not openeing when they should.
