@@ -12,6 +12,7 @@
 * Green mushrooms are now green/greener/greenest mushrooms, indicating their potency.
 * Fixed some objects missing collision.
 * Added a hint in crafting benches.
+* Fixed not being able to pay Miriam at O-Market.
 
 ## dialogue
 
