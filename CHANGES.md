@@ -2,6 +2,7 @@
 
 ## general
 
+* Fixed plank orientation  (issue [#179](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/179))
 * Added options pause menu
 * Prison guard now gives two water bottles more. 
 * Adjusted control tutorial.
