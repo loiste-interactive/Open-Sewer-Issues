@@ -13,6 +13,7 @@
 * Fixed some objects missing collision.
 * Added a hint in crafting benches.
 * Fixed not being able to pay Miriam at O-Market.
+* Added an option to return stuff on market.
 
 ## dialogue
 
