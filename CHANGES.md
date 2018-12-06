@@ -20,6 +20,7 @@
 * Fixed grill having five time of zero amount wine bottles in stock
 * Fixed few culling issues.
 * Added embers to burning barrels (issue [#57](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/57))
+* Alco store now buys stuff.
 
 # 5.12.2018 (0.0.5)
 
