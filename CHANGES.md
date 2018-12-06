@@ -14,6 +14,7 @@
 
 ## level
 
+* Added a fireplace into loghouse  (issue [#106](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/106))
 * Added a ramp (issue [#175](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/175))
 * Fixed a difficulty talking with bartender (issue [#157](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/157))
 * Fixed grill having five time of zero amount wine bottles in stock
