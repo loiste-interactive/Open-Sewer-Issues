@@ -15,6 +15,7 @@
 * Added a hint in crafting benches.
 * Fixed not being able to pay Miriam at O-Market.
 * Added an option to return stuff on market.
+* Fixed lock picking (issue [#182](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/182))
 
 ## dialogue
 
