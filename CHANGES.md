@@ -16,6 +16,7 @@
 * Fixed not being able to pay Miriam at O-Market.
 * Added an option to return stuff on market.
 * Fixed lock picking (issue [#182](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/182))
+* Fixed trade sometimes failing to change item owner (issue [#183](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/183))
 
 ## dialogue
 
