@@ -15,6 +15,8 @@
 
 * Added a ramp (issue [#175](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/175))
 * Fixed a difficulty talking with bartender (issue [#157](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/157))
+* Fixed grill having five time of zero amount wine bottles in stock
+
 # 5.12.2018 (0.0.5)
 
 ## general
