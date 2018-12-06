@@ -26,6 +26,7 @@
 * Added embers to burning barrels (issue [#57](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/57))
 * Alco store now buys stuff.
 * Fixed ball grill inventory.
+* Fixed a few trashcans.
 
 # 5.12.2018 (0.0.5)
 
