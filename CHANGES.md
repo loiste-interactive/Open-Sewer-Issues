@@ -7,6 +7,7 @@
 * Adjusted control tutorial.
 * Fixed mapmarkers (issue [#177](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/177))
 * Fixed tooltip showing Open Sewer Coins as OS instead of OC  (issue [#142](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/142))
+* Fixed pontikka recipe items.
 
 ## dialogue
 
