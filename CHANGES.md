@@ -27,6 +27,7 @@
 * Alco store now buys stuff.
 * Fixed ball grill inventory.
 * Fixed a few trashcans.
+* Changed barrel stoves to have an inventory of 10 slots instead of 8 slots.
 
 # 5.12.2018 (0.0.5)
 
