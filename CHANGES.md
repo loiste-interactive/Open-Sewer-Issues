@@ -2,6 +2,7 @@
 
 ## general
 
+* Fixed poor performance on menus (issue [#188](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/188))
 * Fixed infinite money exploit in trade.
 * Fixed bank money supply changes being 10x faster than they should (issue [#189](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/189))
 * Dropping an item now keeps its owner data (this prevents 'washing' stolen items)
