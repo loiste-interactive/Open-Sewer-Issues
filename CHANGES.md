@@ -27,6 +27,7 @@
 ## dialogue
 
 * Fixed this: https://media.discordapp.net/attachments/510482630278512640/519854716709240842/unknown.png
+* Rob now notifies player if player escapes before Rob has listed required items.
 
 ## level
 
