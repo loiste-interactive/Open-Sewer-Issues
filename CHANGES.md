@@ -22,6 +22,7 @@
 * Fixed lock picking (issue [#182](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/182))
 * Fixed trade sometimes failing to change item owner (issue [#183](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/183))
 * Fixed brewing barrels and other tools playing sounds on menu.
+* Fixed work in progress apartments not saving (issue [#184](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/184))
 
 ## dialogue
 
