@@ -2,6 +2,8 @@
 
 ## general
 
+* Fixed infinite money exploit with trading.
+* Fixed bank money supply changes being 10x faster than they should (issue [#189](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/189))
 * Dropping an item now keeps its owner data (this prevents 'washing' stolen items)
 * Characters are no longer headless.
 * Fixed plank orientation  (issue [#179](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/179))
