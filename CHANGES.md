@@ -1,5 +1,9 @@
 # Upcoming 
 
+## level
+
+* Fixed issues in Pentti's bar (issue [#199](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/199))
+
 # 8.12.2018 (0.0.6)
 
 ## general
