@@ -2,6 +2,7 @@
 
 ## general
 
+* Added own mapmarker for Rob-In store.
 * Added electricity and plumbing upgrades to the tenement.
 * Fixed poor performance on menus (issue [#188](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/188))
 * Fixed infinite money exploit in trade.
