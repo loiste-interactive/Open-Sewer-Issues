@@ -34,6 +34,7 @@
 
 ## level
 
+* Added some stuff into player's apartment.
 * Added a sound when Rob and Robin are working on the tenement.
 * Added a fireplace into loghouse  (issue [#106](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/106))
 * Added a ramp (issue [#175](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/175))
