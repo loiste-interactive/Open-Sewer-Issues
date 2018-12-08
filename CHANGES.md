@@ -2,6 +2,7 @@
 
 ## main menu
 
+* Fixed character creation bug (issue [#214](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/214))
 * Fixed interface flash (issue [#216](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/216))
 
 ## general
