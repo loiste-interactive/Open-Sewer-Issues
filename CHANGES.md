@@ -1,4 +1,8 @@
-# Upcoming 
+# Upcoming
+
+## main menu
+
+* Fixed interface flash (issue [#216](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/216))
 
 ## general
 
@@ -9,7 +13,8 @@
 ## level
 
 * Fixed issues in Pentti's bar (issue [#199](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/199))
-* Fixed barrel shadow  (issue [#201](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/201))
+* Fixed barrel shadow (issue [#201](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/201))
+* Fixed coffin collisions (issue [#215](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/215))
 
 # 8.12.2018 (0.0.6)
 
@@ -40,6 +45,7 @@
 * Fixed brewing barrels and other tools playing sounds on menu.
 * Fixed work in progress apartments not saving (issue [#184](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/184))
 * Fixed not being able to give all the stuff for Rob at once.
+
 ## dialogue
 
 * Fixed this: https://media.discordapp.net/attachments/510482630278512640/519854716709240842/unknown.png
