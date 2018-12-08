@@ -1,4 +1,6 @@
-# Upcoming (0.0.6)
+# Upcoming 
+
+# 8.12.2018 (0.0.6)
 
 ## general
 
