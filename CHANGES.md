@@ -11,6 +11,10 @@
 * Fixed courtyard upgrade spawning into wrong position.   (issue [#204](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/204))
 * Fixed meat grinders.
 
+## dialogue
+
+* Fixed Krista not accepting shrooms (issue [#209](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/209))
+
 ## level
 
 * Fixed issues in Pentti's bar (issue [#199](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/199))
