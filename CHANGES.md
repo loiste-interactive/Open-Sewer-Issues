@@ -1,5 +1,9 @@
 # Upcoming 
 
+## general
+
+* Fixed using items being broken  (issue [#202](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/202))
+
 ## level
 
 * Fixed issues in Pentti's bar (issue [#199](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/199))
