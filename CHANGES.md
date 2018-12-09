@@ -23,6 +23,7 @@
 * Fixed barrel shadow (issue [#201](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/201))
 * Fixed coffin collisions (issue [#215](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/215))
 * Fixed being able to walk in canal without dieing.
+* Fixed upgraded apartment spawning into wrong place (issue [#206](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/206))
 
 # 8.12.2018 (0.0.6)
 
