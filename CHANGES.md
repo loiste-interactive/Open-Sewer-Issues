@@ -25,6 +25,7 @@
 
 ## level
 
+* Added a joinable "Shining moon co-op"
 * Decorated Rob-In shop
 * Fixed issues in Pentti's bar (issue [#199](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/199))
 * Fixed barrel shadow (issue [#201](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/201))
