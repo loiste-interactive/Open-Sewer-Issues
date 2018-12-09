@@ -1,3 +1,9 @@
+# Upcoming
+
+## general
+
+* Added and updated item icons.
+
 # 9.12.2018 (0.0.7)
 
 ## main menu
