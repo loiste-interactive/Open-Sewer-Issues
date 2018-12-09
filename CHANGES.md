@@ -7,6 +7,7 @@
 
 ## general
 
+* Older saves can't be loaded anymore (without editing them) (issue [#211](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/211))
 * Fixed using items being broken  (issue [#202](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/202))
 * Fixed courtyard upgrade spawning into wrong position.   (issue [#204](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/204))
 * Fixed meat grinders.
