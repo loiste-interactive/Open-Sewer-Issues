@@ -25,6 +25,7 @@
 
 ## level
 
+* Decorated tenement with the only elevator.
 * Added a joinable "Shining moon co-op"
 * Decorated Rob-In shop
 * Fixed issues in Pentti's bar (issue [#199](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/199))
