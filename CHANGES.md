@@ -14,6 +14,7 @@
 * Fixed death message overlapping with save game info  (issue [#2119](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/219))
 * Fixed not being able to "Renovate II" apartments.
 * Fixed sheet metal orientation.
+* Fixed wire orientation.
 
 ## dialogue
 
