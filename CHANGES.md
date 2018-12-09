@@ -19,6 +19,10 @@
 * Fixed Krista not accepting shrooms (issue [#209](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/209))
 * Fixed Rob demanding money, when you owe him nothing  (issue [#213](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/213))
 
+## quests
+
+* Added a mashing quest.
+
 ## level
 
 * Decorated Rob-In shop
