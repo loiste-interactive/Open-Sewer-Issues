@@ -16,6 +16,7 @@
 * Fixed sheet metal orientation.
 * Fixed wire orientation.
 * Fixed paint bucket orientation.
+* Fixed bucket orientations.
 
 ## dialogue
 
