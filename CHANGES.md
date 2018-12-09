@@ -3,6 +3,7 @@
 ## general
 
 * Added and updated item icons.
+* Fixed 0 glowing rat meat to 1 minced glowing meat exploit.  (issue [#232](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/232))
 
 # 9.12.2018 (0.0.7)
 
