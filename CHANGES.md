@@ -10,6 +10,7 @@
 * Fixed using items being broken  (issue [#202](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/202))
 * Fixed courtyard upgrade spawning into wrong position.   (issue [#204](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/204))
 * Fixed meat grinders.
+* Fixed death message overlapping with save game info  (issue [#2119](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/219))
 
 ## dialogue
 
@@ -20,6 +21,7 @@
 * Fixed issues in Pentti's bar (issue [#199](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/199))
 * Fixed barrel shadow (issue [#201](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/201))
 * Fixed coffin collisions (issue [#215](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/215))
+* Fixed being able to walk in canal without dieing.
 
 # 8.12.2018 (0.0.6)
 
