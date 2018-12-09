@@ -11,6 +11,7 @@
 * Fixed courtyard upgrade spawning into wrong position.   (issue [#204](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/204))
 * Fixed meat grinders.
 * Fixed death message overlapping with save game info  (issue [#2119](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/219))
+* Fixed not being able to "Renovate II" apartments.
 
 ## dialogue
 
