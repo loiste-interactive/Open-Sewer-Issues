@@ -15,6 +15,7 @@
 * Fixed not being able to "Renovate II" apartments.
 * Fixed sheet metal orientation.
 * Fixed wire orientation.
+* Fixed paint bucket orientation.
 
 ## dialogue
 
