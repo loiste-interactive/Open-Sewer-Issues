@@ -6,6 +6,10 @@
 * Fixed 0 glowing rat meat to 1 minced glowing meat exploit.  (issue [#232](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/232))
 * Fixed items spawning as bright red box (issue [#147](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/232))
 
+## dialogue
+
+* Max Masher now uses correct dialogue.
+
 # 9.12.2018 (0.0.7)
 
 ## main menu
