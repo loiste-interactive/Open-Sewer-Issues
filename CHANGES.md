@@ -20,6 +20,7 @@
 * Optimized some lights
 * Blue mushrooms are now obtainable (issue [#243](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/243))
 * Fixed apartment No. 3 not spawning (issue [#239](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/239))
+* Removed orbital mirror.
 
 # 9.12.2018 (0.0.7)
 
