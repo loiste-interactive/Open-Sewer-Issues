@@ -9,7 +9,8 @@
 * Added surgery/heal sounds to doctor.
 * Fixed hand items not saving/loading (issue [#236](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/236))
 * Re-implemented character loading and saving (issue [#203](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/203))
-* Fixed camera lagging couple of frames when being teleported to and from prison
+* Fixed camera lagging couple of frames when being teleported to and from prison.
+* Fixed Rob not taking RM when commencing upgrades.
 
 ## dialogue
 
