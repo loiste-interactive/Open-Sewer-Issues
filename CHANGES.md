@@ -18,6 +18,7 @@
 ## level
 
 * Optimized some lights
+* Blue mushrooms are now obtainable (issue [#243](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/243))
 
 # 9.12.2018 (0.0.7)
 
