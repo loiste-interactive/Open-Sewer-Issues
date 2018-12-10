@@ -7,6 +7,7 @@
 * Fixed items spawning as bright red box (issue [#147](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/232))
 * Fixed doctor turnip cooldown counter reseting to max 24h value every game load.  (issue [#147](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/232))
 * Added surgery/heal sounds to doctor.
+* Re-implemented character loading and saving (issue [#203](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/203))
 
 ## dialogue
 
