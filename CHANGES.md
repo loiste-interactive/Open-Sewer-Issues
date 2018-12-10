@@ -11,6 +11,7 @@
 * Re-implemented character loading and saving (issue [#203](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/203))
 * Fixed camera lagging couple of frames when being teleported to and from prison.
 * Fixed Rob not taking RM when commencing upgrades.
+* Fixed not being able to renovate apartments beyound renovation I (issue [#252](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/252))
 
 ## dialogue
 
