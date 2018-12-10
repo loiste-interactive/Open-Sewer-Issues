@@ -2,6 +2,7 @@
 
 ## general
 
+* Added ability to purchase furniture for your apartment. (This will be later replaced with more flexible system).
 * Added greenhouse upgrade to the tenement.
 * Added and updated item icons.
 * Fixed renting
