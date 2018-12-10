@@ -7,8 +7,9 @@
 * Added greenhouse upgrade to the tenement.
 * Added and updated item icons.
 * Fixed renting
+* Fixed renovation UI bugs (issue [#208](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/208))
 * Fixed some npc characters
-* Fixed 0 glowing rat meat to 1 minced glowing meat exploit.  (issue [#245](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/245))
+* Fixed 0 glowing rat meat to 1 minced glowing meat exploit. (issue [#245](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/245))
 * Fixed items spawning as bright red box (issue [#147](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/232))
 * Fixed doctor turnip cooldown counter reseting to max 24h value every game load.  (issue [#147](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/232))
 * Added surgery/heal sounds to doctor.
