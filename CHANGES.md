@@ -1,5 +1,9 @@
 # Upcoming
 
+## main menu
+
+* Fixed some small white thing flashing right after game start (issue [#251](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/251))
+
 ## general
 
 * Added zooming to the start tutorial.
