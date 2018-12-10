@@ -2,6 +2,7 @@
 
 ## general
 
+* Added greenhouse upgrade to the tenement.
 * Added and updated item icons.
 * Fixed renting
 * Fixed some npc characters
