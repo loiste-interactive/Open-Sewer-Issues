@@ -13,6 +13,10 @@
 * Max Masher now uses correct dialogue. (issue [#240](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/240))
 * Arvo Kirkastaja now uses correct dialogue.
 
+## level
+
+* Optimized some lights
+
 # 9.12.2018 (0.0.7)
 
 ## main menu
