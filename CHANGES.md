@@ -1,10 +1,14 @@
 # Upcoming (0.1.0)
 
+## general
+
+* Partially fixed items getting stuck  (issue [#187](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/187))
+
 ## intro
 
 * Changed intro text duration (issue [#60](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/60))
 
-# level
+## level
 
 * Removed dev stuff pile.
 
