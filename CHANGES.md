@@ -1,5 +1,9 @@
 # Upcoming (0.1.0)
 
+## intro
+
+* Changed intro text duration (issue [#60](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/60))
+
 # level
 
 * Removed dev stuff pile.
