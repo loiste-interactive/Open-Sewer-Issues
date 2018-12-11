@@ -1,5 +1,11 @@
 # Upcoming
 
+# level
+
+* Removed dev stuff pile.
+
+# 11.12.2018-1 (0.0.8)
+
 ## main menu
 
 * Fixed some small white thing flashing right after game start (issue [#251](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/251))
@@ -32,6 +38,7 @@
 
 ## level
 
+* Added that development stuff pile.
 * Optimized some lights
 * Blue mushrooms are now obtainable (issue [#243](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/243))
 * Fixed apartment No. 3 not spawning (issue [#239](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/239))
