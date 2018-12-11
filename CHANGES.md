@@ -4,6 +4,7 @@
 
 * Partially fixed items getting stuck  (issue [#187](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/187))
 * Added icons for grilled turnip and potato.
+* Fixed camera clipping issue (issue [#18](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/18))
 
 ## intro
 
