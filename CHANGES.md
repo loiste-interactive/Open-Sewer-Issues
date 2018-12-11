@@ -1,4 +1,4 @@
-# # 11.12.2018-2 (0.1.0)
+# # 11.12.2018 Early Access release (0.1.0)
 
 ## general
 
@@ -14,7 +14,7 @@
 
 * Removed dev stuff pile.
 
-# 11.12.2018-1 (0.0.8)
+# 11.12.2018 (0.0.8)
 
 ## main menu
 
