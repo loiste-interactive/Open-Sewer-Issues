@@ -1,4 +1,4 @@
-# # 11.12.2018 Early Access release (0.1.0)
+# 11.12.2018 Early Access release (0.1.0)
 
 ## general
 
@@ -14,7 +14,7 @@
 
 * Removed dev stuff pile.
 
-# 11.12.2018 (0.0.8)
+# 11.12.2018 Alpha (0.0.8)
 
 ## main menu
 
@@ -54,7 +54,7 @@
 * Fixed apartment No. 3 not spawning (issue [#239](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/239))
 * Removed orbital mirror.
 
-# 9.12.2018 (0.0.7)
+# 9.12.2018 Alpha (0.0.7)
 
 ## main menu
 
@@ -95,7 +95,7 @@
 * Fixed upgraded apartment spawning into wrong place (issue [#206](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/206))
 * Upgrading player's apartment now clears some unncecessary junk from there.
 
-# 8.12.2018 (0.0.6)
+# 8.12.2018 Alpha (0.0.6)
 
 ## general
 
@@ -184,7 +184,7 @@
 * Removed and dimmed some lights from Osmo Olut factory windows to reduce rendering cost.
 * Changed tenement marker color
 
-# 4.12.2018 (0.0.4)
+# 4.12.2018 Alpha (0.0.4)
 
 ## general
 
@@ -214,7 +214,7 @@
 * Added prison cell.
 * Stocked up O-Market (issue [#129](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/129))
 
-# 1.12.2018 (0.0.3)
+# 1.12.2018 Alpha (0.0.3)
 
 ## general
 
@@ -253,11 +253,11 @@
 * Fixed locked doors appearing as unlocked (issue [#107](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/107))
 
 
-# 28.11.2018 quickfix (0.0.2)
+# 28.11.2018 quickfix Alpha (0.0.2)
 
 * Fixed broken cursor
 
-# 27.11.2018 (0.0.2)
+# 27.11.2018 Alpha (0.0.2)
 
 ## main menu
 
@@ -302,7 +302,7 @@
 * Disabled fishes until fishing is implemented.
 
 
-# 22.11.2018 (0.0.1)
+# 22.11.2018 Alpha (0.0.1)
 
 ## main menu
 
