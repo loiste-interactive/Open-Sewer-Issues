@@ -6,6 +6,7 @@
 
 ## general
 
+* Added some trees to the empty lot.
 * Added zooming to the start tutorial.
 * Added ability to purchase furniture for your apartment. (This will be later replaced with more flexible system).
 * Added greenhouse upgrade to the tenement.
