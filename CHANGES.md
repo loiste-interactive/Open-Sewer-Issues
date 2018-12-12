@@ -1,3 +1,9 @@
+# Upcoming
+
+## general
+
+* Fixed furniture not spawning in correct orientation.
+
 # 11.12.2018 Early Access (0.1.0)
 
 ## general
