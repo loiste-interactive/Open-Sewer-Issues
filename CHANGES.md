@@ -25,6 +25,7 @@
 * Removed sign mip maps
 * Removed skybox mip maps
 * Fixed two doors lacking collisions.
+* Fixed broken distillery in the forest.
 
 # 11.12.2018 Early Access (0.1.0)
 
