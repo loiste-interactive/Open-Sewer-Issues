@@ -12,6 +12,10 @@
 * Methanol now slows down SMV.
 * Trade now supports r-clicking items (issue [#274](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/274))
 
+## quests
+
+* Fixed a mashing quest bugs
+
 ## level
 
 * Changed skybox size (issue [#126](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/126))
