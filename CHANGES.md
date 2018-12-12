@@ -1,5 +1,9 @@
 # Upcoming
 
+## main menu
+
+* Removed sign mip map
+
 ## general
 
 * Fixed furniture not spawning in correct orientation.
