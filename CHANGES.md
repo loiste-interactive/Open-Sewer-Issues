@@ -7,6 +7,7 @@
 ## general
 
 * Fixed furniture not spawning in correct orientation.
+* Removed sign mip maps
 
 # 11.12.2018 Early Access (0.1.0)
 
