@@ -26,6 +26,7 @@
 * Removed skybox mip maps
 * Fixed two doors lacking collisions.
 * Fixed broken distillery in the forest.
+* Sauna now has a sound.
 
 # 11.12.2018 Early Access (0.1.0)
 
