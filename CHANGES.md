@@ -19,6 +19,7 @@
 * Fixed WC being finicky to exit (issue [#283](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/283))
 * Removed sign mip maps
 * Removed skybox mip maps
+* Fixed two doors lacking collisions.
 
 # 11.12.2018 Early Access (0.1.0)
 
