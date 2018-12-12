@@ -10,6 +10,7 @@
 * Fixed sausages giving empty wine bottles (issue [#281](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/281))
 * Fixed sugar mash recipe  (issue [#270](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/270))
 * Methanol now slows down SMV.
+* Methanol now reduces SMV.
 * Trade now supports r-clicking items (issue [#274](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/274))
 
 ## quests
