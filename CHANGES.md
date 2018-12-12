@@ -7,6 +7,7 @@
 ## general
 
 * Fixed furniture not spawning in correct orientation.
+* Fixed sausages giving empty wine bottles (issue [#281](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/281))
 
 ## level
 
