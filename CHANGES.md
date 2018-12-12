@@ -11,6 +11,7 @@
 ## level
 
 * Changed skybox size (issue [#126](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/126))
+* Junk trader now buys mushrooms  (issue [#185](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/185))
 * Removed sign mip maps
 * Removed skybox mip maps
 
