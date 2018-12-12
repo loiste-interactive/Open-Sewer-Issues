@@ -7,6 +7,10 @@
 ## general
 
 * Fixed furniture not spawning in correct orientation.
+
+## level
+
+* Changed skybox size (issue [#126](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/126))
 * Removed sign mip maps
 * Removed skybox mip maps
 
