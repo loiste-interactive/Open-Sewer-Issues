@@ -3,6 +3,7 @@
 ## general
 
 * Added a watch
+* Traders now notify you when they're out of money.
 
 ## level
 
