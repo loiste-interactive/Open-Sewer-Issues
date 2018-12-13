@@ -13,6 +13,7 @@
 * Methanol now reduces SMV.
 * Trade now supports r-clicking items (issue [#274](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/274))
 * Fixed infinite hotel stay after loading a game (issue [#289](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/289))
+* Fixed sludge tanks (issue [#290](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/290))
 
 ## quests
 
