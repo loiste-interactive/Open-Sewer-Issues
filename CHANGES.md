@@ -1,5 +1,7 @@
 # Upcoming
 
+# 13.12.2018 (0.1.0-a) [Untested]
+
 ## main menu
 
 * Removed sign mip map
