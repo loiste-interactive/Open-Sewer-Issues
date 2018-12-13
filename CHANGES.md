@@ -8,6 +8,7 @@
 ## level
 
 * Adjusted item respawn times (issue [#294](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/294))
+* Fixed couple of locations to get stuck.
 
 # 13.12.2018 (0.1.0-a)
 
