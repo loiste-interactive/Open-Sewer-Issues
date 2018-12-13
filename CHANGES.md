@@ -4,7 +4,7 @@
 
 * Added a watch
 
-# 13.12.2018 (0.1.0-a) [Untested]
+# 13.12.2018 (0.1.0-a)
 
 ## main menu
 
