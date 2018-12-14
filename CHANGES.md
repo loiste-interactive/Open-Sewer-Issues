@@ -3,6 +3,7 @@
 ## general
 
 * Added a watch
+* Fixed pause menu bug (issue [#295](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/295))
 * Fixed rent apartment save bug (issue [#319](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/319))
 * Traders now notify you when they're out of money.
 * Ethanol now recues SMV progression by 0.125.
