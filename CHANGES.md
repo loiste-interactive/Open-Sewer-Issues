@@ -10,7 +10,7 @@
 * Increased methanol SMV reduction to 5%.
 * Bank now has surplus income of RM.
 * Fixed saving and loading during dream, forcing player in the dreaworld for eternity.  (issue [#307](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/307))
-* Added emptyable "bucket toilets", these will also give a hint wether player has SMV.
+* Added emptyable "bucket toilets". These will also give a hint wether player has SMV.
 
 ## level
 
