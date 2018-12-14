@@ -9,6 +9,7 @@
 * Ethanol now recues SMV progression rate by 0.125%.
 * Increased methanol SMV reduction to 5%.
 * Bank now has surplus income of RM.
+* Fixed saving and loading during dream, forcing player in the dreaworld for eternity.  (issue [#307](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/307))
 
 ## level
 
