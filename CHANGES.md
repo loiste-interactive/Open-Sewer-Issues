@@ -6,7 +6,7 @@
 * Fixed pause menu bug (issue [#295](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/295))
 * Fixed rent apartment save bug (issue [#319](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/319))
 * Traders now notify you when they're out of money.
-* Ethanol now recues SMV progression by 0.125.
+* Ethanol now recues SMV progression rate by 0.125%.
 * Increased methanol SMV reduction to 5%.
 * Bank now has surplus income of RM.
 
