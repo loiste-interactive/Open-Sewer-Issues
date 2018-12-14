@@ -5,6 +5,7 @@
 * Added a watch
 * Traders now notify you when they're out of money.
 * Ethanol now recues SMV progression by 0.125.
+* Increased methanol SMV reduction to 5%.
 * Bank now has surplus income of RM.
 
 ## level
