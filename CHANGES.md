@@ -6,7 +6,7 @@
 
 ## level
 
-* Fixed overlapping use zones in a brewer tent.
+* Fixed overlapping use zones in a brewery tent.
 
 # 15.12.2018 (0.1.1) [Untested]
 
