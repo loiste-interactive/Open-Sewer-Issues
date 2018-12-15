@@ -1,3 +1,13 @@
+# Upcoming
+
+## general
+
+* Fixed cup of coffee missing an icon (issue [#324](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/324))
+
+## level
+
+* Fixed overlapping use zones in a brewer tent.
+
 # 15.12.2018 (0.1.1) [Untested]
 
 ## general
