@@ -16,6 +16,7 @@
 ## quests
 
 * Fixed empty Max Masher dialogue line.
+* Fixed not being able to sell mash to Pentti
 
 ## level
 
