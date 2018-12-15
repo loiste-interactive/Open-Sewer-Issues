@@ -12,6 +12,10 @@
 * Fixed saving and loading during dream, forcing player in the dreaworld for eternity.  (issue [#307](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/307))
 * Added emptyable "bucket toilets". These will also give a hint wether player has SMV.
 
+## quests
+
+* Fixed empty Max Masher dialogue line.
+
 ## level
 
 * Adjusted item respawn times (issue [#294](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/294))
