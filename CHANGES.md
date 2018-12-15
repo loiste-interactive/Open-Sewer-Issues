@@ -17,6 +17,7 @@
 * Adjusted item respawn times (issue [#294](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/294))
 * Fixed couple of locations to get stuck.
 * Fixed a wall missing collisions  (issue [#299](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/299))
+* Fixed disparancy between general trader opening hours and door lock states.
 
 # 13.12.2018 (0.1.0-a)
 
