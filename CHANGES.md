@@ -6,6 +6,7 @@
 * Fixed a bug in trader money amount.
 * Fixed apartment bed not counted as safe after renovation.
 * Fixed player apartment furniture not saving.
+* Fixed owner of items in traders inventory resetting upon item respawn.
 
 ## level
 
