@@ -1,4 +1,4 @@
-# 16.12.2018 (0.1.2) [Untested]
+# 16.12.2018 (0.1.2) 
 
 ## general
 
@@ -12,7 +12,7 @@
 
 * Fixed overlapping use zones in a brewery tent.
 
-# 15.12.2018 (0.1.1) [Untested]
+# 15.12.2018 (0.1.1) 
 
 ## general
 
