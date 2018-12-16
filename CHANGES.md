@@ -4,6 +4,7 @@
 
 * Fixed cup of coffee missing an icon (issue [#324](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/324))
 * Fixed a bug in trader money amount.
+* Fixed apartment bed not counted as safe asfter renovation.
 
 ## level
 
