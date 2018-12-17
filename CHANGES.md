@@ -7,6 +7,7 @@
 ## quests
 
 * Fixed not being able to tell Pentti about Max.
+* Changed Pentti to give mash buckets back.
 
 # 16.12.2018 (0.1.2) 
 
@@ -17,10 +18,6 @@
 * Fixed apartment bed not being safe after renovation.
 * Fixed player apartment furniture not saving.
 * Fixed owner of items in traders inventory resetting upon item respawn.
-
-## quests
-
-* Changed Pentti to give mash buckets back.
 
 ## level
 
