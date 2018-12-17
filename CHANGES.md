@@ -1,8 +1,17 @@
-# 16.12.2018 (0.1.2) 
+# Upcoming
 
 ## general
 
 * Added quality menu
+
+## quests
+
+* Fixed not being able to tell Pentti about Max.
+
+# 16.12.2018 (0.1.2) 
+
+## general
+
 * Fixed cup of coffee missing an icon (issue [#324](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/324))
 * Fixed a bug in trader money amount.
 * Fixed apartment bed not being safe after renovation.
@@ -12,7 +21,6 @@
 ## quests
 
 * Changed Pentti to give mash buckets back.
-* Fixed not being able to tell Pentti about Max.
 
 ## level
 
