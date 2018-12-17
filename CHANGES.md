@@ -2,11 +2,17 @@
 
 ## general
 
+* Added quality menu
 * Fixed cup of coffee missing an icon (issue [#324](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/324))
 * Fixed a bug in trader money amount.
 * Fixed apartment bed not being safe after renovation.
 * Fixed player apartment furniture not saving.
 * Fixed owner of items in traders inventory resetting upon item respawn.
+
+## quests
+
+* Changed Pentti to give mash buckets back.
+* Fixed not being able to tell Pentti about Max.
 
 ## level
 
