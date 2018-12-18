@@ -5,6 +5,7 @@
 * Added quality menu
 * Fixed resolution settings
 * Fixed invert mouse settings
+* Fixed white dots on the pause menu (issue [#323](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/323))
 * Fixed apartment furniture storage data not loading  (issue [#338](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/338))
 
 ## quests
