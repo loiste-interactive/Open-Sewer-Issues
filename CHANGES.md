@@ -3,6 +3,8 @@
 ## general
 
 * Added quality menu
+* Fixed resolution settings
+* Fixed invert mouse settings
 
 ## quests
 
