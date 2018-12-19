@@ -5,6 +5,7 @@
 * Added quality menu
 * Added more item sounds
 * Added apartment quality to affect rent amount
+* Added 1st person crosshair
 * Changed hold walk to toggle walk
 * Fixed resolution settings
 * Fixed invert mouse settings
