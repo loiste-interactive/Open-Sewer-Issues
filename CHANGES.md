@@ -19,6 +19,10 @@
 * Fixed not being able to tell Pentti about Max.
 * Changed Pentti to give mash buckets back.
 
+## level
+
+* Fixed border inspection door showing wrong use message  (issue [#332](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/332))
+
 # 16.12.2018 (0.1.2) 
 
 ## general
