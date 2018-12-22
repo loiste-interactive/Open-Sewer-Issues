@@ -2,30 +2,32 @@
 
 ## general
 
-* Improved some textures.
 * Added quality menu
 * Added more item sounds
 * Added apartment quality to affect rent amount
 * Added 1st person crosshair
+* Added locks to indicate their difficulty when wearing a lockpick
 * Changed hold walk to toggle walk
+* Fixed not being able to rent apartment to Pera Harju
 * Fixed resolution settings
 * Fixed invert mouse settings
 * Fixed 1st person crouching (issue [#197](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/197))
 * Fixed white dots on the pause menu (issue [#323](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/323))
 * Fixed apartment furniture storage data not loading  (issue [#338](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/338))
-* Locks now indicate their difficulty when wearing a lockpick.
 * Fixed trade exploit (issue [#341](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/341))
+* Improved some textures
 
 ## quests
 
-* Fixed not being able to tell Pentti about Max.
-* Changed Pentti to give mash buckets back.
+* Fixed being able to give moonshine several times to Pate Rantanen
+* Fixed not being able to tell Pentti about Max
+* Changed Pentti to give mash buckets back
 
 ## level
 
-* Fixed border inspection door showing wrong use message  (issue [#332](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/332))
+* Fixed border inspection door showing wrong use message (issue [#332](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/332))
 * Fixed a culling issue (issue [#343](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/343))
-* Added a seasonal decorated tree.
+* Added a seasonal decorated tree
 
 # 16.12.2018 (0.1.2) 
 
