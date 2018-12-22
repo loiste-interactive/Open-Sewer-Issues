@@ -16,6 +16,7 @@
 * Fixed apartment furniture storage data not loading  (issue [#338](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/338))
 * Fixed trade exploit (issue [#341](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/341))
 * Improved some textures
+* Fixed oven extraction issues (issue [#346](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/346))
 
 ## quests
 
