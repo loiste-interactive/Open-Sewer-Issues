@@ -25,6 +25,7 @@
 
 * Fixed border inspection door showing wrong use message  (issue [#332](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/332))
 * Fixed a culling issue (issue [#343](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/343))
+* Added a seasonal decorated tree.
 
 # 16.12.2018 (0.1.2) 
 
