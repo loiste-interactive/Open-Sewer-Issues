@@ -2,6 +2,7 @@
 
 ## general
 
+* Improved some textures.
 * Added quality menu
 * Added more item sounds
 * Added apartment quality to affect rent amount
