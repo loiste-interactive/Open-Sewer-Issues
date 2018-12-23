@@ -12,6 +12,7 @@
 * Fixed invert mouse settings
 * Fixed 1st person crouching (issue [#197](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/197))
 * Fixed white dots on the pause menu (issue [#323](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/323))
+* Fixed menu not showing right key binding after relaunch (issue [#331](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/331))
 * Fixed apartment furniture storage data not loading  (issue [#338](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/338))
 * Fixed trade exploit (issue [#341](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/341))
 * Improved some textures
