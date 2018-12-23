@@ -1,5 +1,4 @@
-# Upcoming
-
+# 23.12.2018 (0.1.2-a) [untested]
 ## general
 
 * Added quality menu
