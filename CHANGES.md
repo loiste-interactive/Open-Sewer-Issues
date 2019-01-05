@@ -6,6 +6,7 @@
 * Added character portraits
 * Added rentable character requirements
 * Changed appearance of some characters
+* Improved some textures
 
 ## level
 
