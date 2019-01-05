@@ -1,3 +1,16 @@
+# Upcoming
+
+## general
+
+* Added 5 rentable characters
+* Added character portraits
+* Added rentable character requirements
+* Changed appearance of some characters
+
+## level
+
+* Fixed some small visual bugs
+
 # 23.12.2018 (0.1.2-a) [untested]
 ## general
 
