@@ -12,7 +12,7 @@
 
 * Fixed some small visual bugs
 
-# 23.12.2018 (0.1.2-a) [untested]
+# 6.1.2019 (0.1.2-a)
 ## general
 
 * Added quality menu
