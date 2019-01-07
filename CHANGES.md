@@ -10,6 +10,7 @@
 
 ## level
 
+* Added interior detail to house near border inspection
 * Fixed some small visual bugs
 
 # 6.1.2019 (0.1.2-a)
