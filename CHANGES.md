@@ -5,12 +5,16 @@
 * Added 5 rentable characters
 * Added character portraits
 * Added rentable character requirements
+* Added door animations
+* Changed trigger use to look use
 * Changed appearance of some characters
+* Changed use UI
 * Improved some textures
 
 ## level
 
 * Added interior detail to house near border inspection
+* Added more detail to some areas
 * Fixed some small visual bugs
 
 # 6.1.2019 (0.1.2-a)
