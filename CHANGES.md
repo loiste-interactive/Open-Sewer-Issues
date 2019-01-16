@@ -6,6 +6,7 @@
 * Added character portraits
 * Added rentable character requirements
 * Added door animations
+* Added more character clothes and hairs
 * Changed trigger use to look use
 * Changed appearance of some characters
 * Changed use UI
