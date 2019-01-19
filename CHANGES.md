@@ -17,6 +17,7 @@
 * Added interior detail to house near border inspection
 * Added more detail to some areas
 * Fixed some small visual bugs
+* Fixed a lot of collision and stuck issues
 
 # 6.1.2019 (0.1.2-a)
 ## general
