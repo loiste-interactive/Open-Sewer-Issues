@@ -6,11 +6,12 @@
 * Added character portraits
 * Added rentable character requirements
 * Added door animations
-* Added more character clothes and hairs
+* Added more clothes and hairstyles for characters
 * Changed trigger use to look use
 * Changed appearance of some characters
 * Changed use UI
 * Improved some textures
+* Fixed character model deformation issue (issue [#354](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/354))
 
 ## level
 
