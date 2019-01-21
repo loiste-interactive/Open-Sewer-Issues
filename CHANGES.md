@@ -12,6 +12,7 @@
 * Changed use UI
 * Improved some textures
 * Fixed character model deformation issue (issue [#354](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/354))
+* Movement in first person mode is now less janky
 
 ## level
 
