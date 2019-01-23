@@ -15,6 +15,10 @@
 * Fixed tenement renovation prices showing OS instead of OC (issue [#327](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/327))
 * Movement in first person mode is now less janky
 
+## Mainmenu
+
+* Added version to lower corner (issue [#373](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/373))
+
 ## level
 
 * Added interior detail to house near border inspection
