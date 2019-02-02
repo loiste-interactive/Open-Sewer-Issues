@@ -17,6 +17,7 @@
 * Fixed infinite hotel stay when loading game
 * Fixed being able to open tenement doors during renovation (issue [#234](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/234))
 * Movement in first person mode is now less janky
+* Apartment doors now indicate apartment number (issue [#330](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/330))
 
 ## Mainmenu
 
