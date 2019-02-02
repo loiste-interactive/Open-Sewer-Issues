@@ -7,6 +7,7 @@
 * Added rentable character requirements
 * Added door animations
 * Added more clothes and hairstyles for characters
+* Added skin textures for characters
 * Overhauled use system.
 * Changed appearance of some characters
 * Changed use UI
