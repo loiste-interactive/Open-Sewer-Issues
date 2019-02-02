@@ -27,6 +27,7 @@
 * Fixed some small visual bugs
 * Fixed a lot of collision and stuck issues
 * Fixed missing collisions in cemetery  (issue [#374](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/374))
+* Fixed door without sounds  (issue [#300](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/300))
 
 # 6.1.2019 (0.1.2-a)
 ## general
