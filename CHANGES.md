@@ -2,6 +2,7 @@
 
 ## general
 
+* Added autosave when using toilets.
 * Added 5 rentable characters
 * Added character portraits
 * Added rentable character requirements
