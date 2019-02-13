@@ -13,6 +13,7 @@
 * Changed appearance of some characters
 * Changed use UI
 * Improved some textures
+* Item tooltips now show more stats of the item (issue [#291](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/291))
 * Fixed Rob telling job to be done "about... today" (issue [#329](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/329))
 * Fixed character model deformation issue (issue [#354](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/354))
 * Fixed tenement renovation prices showing OS instead of OC (issue [#327](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/327))
