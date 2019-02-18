@@ -5,6 +5,7 @@
 * Added autosave when using toilets.
 * Added 5 rentable characters
 * Added character portraits
+* Added more apartment status colors
 * Added rentable character requirements
 * Added door animations
 * Added more clothes and hairstyles for characters
@@ -14,6 +15,7 @@
 * Changed use UI
 * Improved some textures
 * Item tooltips now show more stats of the item (issue [#291](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/291))
+* Fixed several renting bugs
 * Fixed Rob closing apartment before all the stuff are brought to him (issue [#273](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/273))
 * Fixed Rob telling job to be done "about... today" (issue [#329](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/329))
 * Fixed character model deformation issue (issue [#354](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/354))
@@ -31,6 +33,7 @@
 ## level
 
 * Added interior detail to house near border inspection
+* Added content to deekula cellar and stairs
 * Added more detail to some areas
 * Fixed some small visual bugs
 * Fixed a lot of collision and stuck issues
