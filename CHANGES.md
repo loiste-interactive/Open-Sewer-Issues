@@ -36,7 +36,7 @@
 ## level
 
 * Added interior detail to house near border inspection
-* Added content to deekula cellar and stairs
+* Added content to Deekula cellar and stairs
 * Added more detail to some areas
 * Fixed some small visual bugs
 * Fixed a lot of collision and stuck issues
