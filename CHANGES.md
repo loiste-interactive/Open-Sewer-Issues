@@ -27,6 +27,7 @@
 * Movement in first person mode is now less janky
 * Apartment doors now indicate apartment number (issue [#330](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/330))
 * Shadowed lights now turn off automatically after certain distance. This saves FPS.
+* Saves from previous version can now be loaded.
 
 ## Mainmenu
 
