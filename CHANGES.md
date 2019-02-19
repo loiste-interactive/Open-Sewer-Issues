@@ -13,11 +13,13 @@
 * Overhauled use system.
 * Changed appearance of some characters
 * Changed use UI
+* Changed död sound
 * Improved some textures
 * Item tooltips now show more stats of the item (issue [#291](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/291))
 * Fixed several renting bugs
 * Fixed not being able to see all apartment renovation options
 * Fixed being able to use items in O-Market
+* Fixed pause menu not stopping looping sounds
 * Fixed Rob closing apartment before all the stuff are brought to him (issue [#273](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/273))
 * Fixed Rob telling job to be done "about... today" (issue [#329](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/329))
 * Fixed character model deformation issue (issue [#354](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/354))
