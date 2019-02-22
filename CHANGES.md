@@ -1,3 +1,8 @@
+# 21.2.2019 (0.1.3) -hotfix
+
+* Fixed unable to talk with bank teller.
+* Fixed unable to open lockpicked containers. (issue [#385](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/385))
+
 # 21.2.2019 (0.1.3)
 
 ## general
