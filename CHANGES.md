@@ -1,3 +1,9 @@
+# Upcoming
+
+## level
+
+* Fixed culling issue on lantern in player's apartment.(issue [#386](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/386))
+
 # 21.2.2019 (0.1.3) -hotfix
 
 * Fixed unable to talk with bank teller.
