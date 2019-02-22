@@ -1,5 +1,9 @@
 # Upcoming
 
+## general
+
+* Fixed being unable to use brewing barrels.
+
 ## level
 
 * Fixed culling issue on lantern in player's apartment. (issue [#386](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/386))
