@@ -3,6 +3,7 @@
 ## general
 
 * Fixed being unable to use brewing barrels.
+* Fixed keys not working.
 
 ## level
 
