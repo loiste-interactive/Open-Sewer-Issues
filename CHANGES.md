@@ -4,6 +4,7 @@
 
 * Fixed being unable to use brewing barrels.
 * Fixed keys not working.
+* Fixed falldamage being extreme in first person mode.
 
 ## level
 
