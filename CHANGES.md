@@ -7,6 +7,11 @@
 ## level
 
 * Fixed culling issue on lantern in player's apartment. (issue [#386](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/386))
+* Fixed Oliver Berggren trading. (issue [#387](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/387))
+* Fixed invisible wall. (issue [#388](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/388))
+* Fixed locked door can't be lockpicked. (issue [#390](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/390))
+* Fixed unable to interact with player's apartment cupboard (issue [#392](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/392)
+* Fixed unable to talk with liquor trader. (issue [#394](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/394))
 
 # 21.2.2019 (0.1.3) -hotfix
 
