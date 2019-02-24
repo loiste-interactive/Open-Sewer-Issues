@@ -2,12 +2,15 @@
 
 ## general
 
+* Changed use text location
+* Changed first person view use area size
 * Fixed being unable to use brewing barrels.
 * Fixed keys not working.
 * Fixed falldamage being extreme in first person mode.
 
 ## level
 
+* Added more content to deekula
 * Fixed culling issue on lantern in player's apartment. (issue [#386](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/386))
 * Fixed Oliver Berggren trading. (issue [#387](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/387))
 * Fixed invisible wall. (issue [#388](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/388))
