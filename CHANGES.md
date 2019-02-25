@@ -8,7 +8,7 @@
 * Fixed keys not working.
 * Fixed falldamage being extreme in first person mode.
 * Fixed crafting (issue [#399](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/399))
-* Fixed not different vendors having the same options.
+* Fixed vendors not switching correctly.
 
 ## level
 
