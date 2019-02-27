@@ -12,6 +12,7 @@
 
 * Fixed some doors opening wrong way.
 * Fixed sludge tanks (issue [#403](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/403))
+* Fixed storage lockpick message (issue [#406](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/406))
 * Fixed deekula apartment 5B door (issue [#407](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/407))
 * Fixed deekula apartment 7B doors (issue [#409](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/409))
 
