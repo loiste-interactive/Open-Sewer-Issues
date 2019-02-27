@@ -12,6 +12,7 @@
 
 * Fixed some doors opening wrong way.
 * Fixed sludge tanks (issue [#403](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/403))
+* Fixed deekula apartment 7B doors (issue [#409](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/409))
 
 # 26.2.2019 (0.1.4)
 
