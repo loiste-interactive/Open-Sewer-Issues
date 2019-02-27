@@ -7,6 +7,7 @@
 
 ## level
 
+* Fixed some doors opening wrong way
 * Fixed sludge tanks (issue [#403](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/403))
 
 # 26.2.2019 (0.1.4)
