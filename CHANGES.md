@@ -1,3 +1,7 @@
+# Upcoming
+
+* Fixed not being able to rent an apartment to Amanda Korhonen
+
 # 26.2.2019 (0.1.4)
 
 ## general
