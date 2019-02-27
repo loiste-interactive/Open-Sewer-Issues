@@ -6,6 +6,7 @@
 * Fixed Mr. Duck not having Mask.
 * Fixed door animations not working sometimes.
 * Fixed inventory panel not opening automatically when buying from some vendors.
+* Improved some textures.
 
 ## level
 
