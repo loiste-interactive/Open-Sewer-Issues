@@ -6,6 +6,7 @@
 * Fixed Mr. Duck not having Mask.
 * Fixed door animations not working sometimes.
 * Fixed inventory panel not opening automatically when buying from some vendors.
+* Fixed missing zero when people say time (issue [#376](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/376))
 * Improved some textures.
 
 ## level
