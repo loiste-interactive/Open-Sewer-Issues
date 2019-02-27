@@ -5,6 +5,10 @@
 * Fixed not being able to rent an apartment to Amanda Korhonen.
 * Fixed Mr. Duck not having Mask.
 
+## level
+
+* Fixed sludge tanks (issue [#403](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/403))
+
 # 26.2.2019 (0.1.4)
 
 ## general
