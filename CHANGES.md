@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed being able to open Rob-in door in when it's closed.
+* Fixed not being able to use Shining moon co-op key.
 * Fixed not being able to rent an apartment to Amanda Korhonen.
 * Fixed Mr. Duck not having Mask.
 
