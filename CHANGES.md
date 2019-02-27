@@ -4,10 +4,11 @@
 * Fixed not being able to use Shining moon co-op key.
 * Fixed not being able to rent an apartment to Amanda Korhonen.
 * Fixed Mr. Duck not having Mask.
+* Fixed door animations not working sometimes.
 
 ## level
 
-* Fixed some doors opening wrong way
+* Fixed some doors opening wrong way.
 * Fixed sludge tanks (issue [#403](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/403))
 
 # 26.2.2019 (0.1.4)
@@ -24,7 +25,7 @@
 
 ## level
 
-* Added more content to deekula
+* Added more content to deekula.
 * Fixed culling issue on lantern in player's apartment. (issue [#386](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/386))
 * Fixed Oliver Berggren trading. (issue [#387](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/387))
 * Fixed invisible wall. (issue [#388](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/388))
