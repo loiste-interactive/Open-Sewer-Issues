@@ -1,13 +1,15 @@
 # Upcoming
 
-* Fixed not being able to rent an apartment to Amanda Korhonen
+* Fixed being able to open Rob-in door in when it's closed.
+* Fixed not being able to rent an apartment to Amanda Korhonen.
+* Fixed Mr. Duck not having Mask.
 
 # 26.2.2019 (0.1.4)
 
 ## general
 
-* Changed use text location
-* Changed first person view use area size
+* Changed use text location.
+* Changed first person view use area size.
 * Fixed being unable to use brewing barrels.
 * Fixed keys not working.
 * Fixed falldamage being extreme in first person mode.
