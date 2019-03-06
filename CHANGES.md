@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added new loading screen hint.
 * Added apply display to game startup to fix performance problem. (issue [#397](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/397))
 * Fixed being able to open Rob-in door in when it's closed.
 * Fixed not being able to use Shining moon co-op key.
