@@ -1,7 +1,6 @@
 # Upcoming
 
 * Added apply display to game startup to fix performance problem. (issue [#397](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/397))
-* Added new loading screen hint.
 * Fixed being able to open Rob-in door in when it's closed.
 * Fixed not being able to use Shining moon co-op key.
 * Fixed not being able to rent an apartment to Amanda Korhonen.
@@ -10,6 +9,7 @@
 * Fixed inventory panel not opening automatically when buying from some vendors.
 * Fixed missing zero when people say time. (issue [#376](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/376))
 * Fixed not being able to trade with Alcohol trader.
+* Fixed player apartment doors (issue [#401](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/401))
 * Improved some textures.
 
 ## level
