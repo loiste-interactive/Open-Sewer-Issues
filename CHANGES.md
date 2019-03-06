@@ -14,6 +14,7 @@
 * Fixed not being able to trade with Alcohol trader.
 * Fixed player apartment doors (issue [#401](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/401))
 * Fixed tenement barrel stoves (issue [#400](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/400))
+* Fixed trader dropping sold items when trader inv is full.
 * Improved some textures.
 
 ## level
