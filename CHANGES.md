@@ -13,6 +13,7 @@
 
 ## level
 
+* Added more detail to Rob-in build and repair.
 * Fixed some doors opening wrong way.
 * Fixed not being able to open some locked doors inside.
 * Fixed sludge tanks (issue [#403](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/403))
