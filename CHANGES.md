@@ -13,6 +13,7 @@
 * Fixed missing zero when people say time. (issue [#376](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/376))
 * Fixed not being able to trade with Alcohol trader.
 * Fixed player apartment doors (issue [#401](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/401))
+* Fixed tenement barrel stoves (issue [#400](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/400))
 * Improved some textures.
 
 ## level
