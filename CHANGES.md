@@ -20,7 +20,7 @@
 
 ## Mainmenu
 
-* Added name randomization (issue [#35](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/35))
+* Added name and look randomization (issue [#35](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/35))
 
 ## level
 
