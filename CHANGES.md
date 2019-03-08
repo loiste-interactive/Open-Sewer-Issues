@@ -25,7 +25,7 @@
 
 ## items
 
-* Fixed coffee money exploi (issue [#325](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/325))
+* Fixed coffee money exploit (issue [#325](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/325))
 
 ## level
 
