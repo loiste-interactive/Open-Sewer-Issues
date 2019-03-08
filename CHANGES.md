@@ -10,6 +10,7 @@
 * Fixed Mr. Duck not having Mask.
 * Fixed door animations not working sometimes.
 * Fixed inventory panel not opening automatically when buying from some vendors.
+* Fixed the action key resetting dialog when trading. (issue [#334](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/334))
 * Fixed missing zero when people say time. (issue [#376](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/376))
 * Fixed not being able to trade with Alcohol trader.
 * Fixed player apartment doors (issue [#401](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/401))
