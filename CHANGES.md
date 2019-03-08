@@ -18,6 +18,10 @@
 * Fixed trader dropping sold items when trader inv is full.
 * Improved some textures.
 
+## Mainmenu
+
+* Added name randomization (issue [#35](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/35))
+
 ## level
 
 * Added more detail to Rob-in build and repair.
