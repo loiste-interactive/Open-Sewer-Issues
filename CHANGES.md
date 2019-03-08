@@ -23,6 +23,10 @@
 
 * Added name and look randomization (issue [#35](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/35))
 
+## items
+
+* Fixed coffee money exploi (issue [#325](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/325))
+
 ## level
 
 * Added more detail to Rob-in build and repair.
