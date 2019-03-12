@@ -8,6 +8,7 @@
 * Changed Rob's dialogue.
 * Fixed being able to open Rob-in door in when it's closed.
 * Fixed being able to zoom when dialogue window is open.
+* Fixed apartment buttons not showing green colors when being able to rent them.
 * Fixed not being able to use Shining moon co-op key.
 * Fixed not being able to rent an apartment to Amanda Korhonen.
 * Fixed Mr. Duck not having Mask.
