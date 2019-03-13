@@ -15,6 +15,7 @@
 * Fixed Mr. Duck not having Mask.
 * Fixed door animations not working sometimes.
 * Fixed inventory panel not opening automatically when buying from some vendors.
+* Fixed tenement status text (issue [#265](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/265))
 * Fixed the action key resetting dialog when trading. (issue [#334](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/334))
 * Fixed missing zero when people say time. (issue [#376](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/376
 * Fixed stat exploit. (issue [#378](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/378))
