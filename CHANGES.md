@@ -31,6 +31,11 @@
 
 * Added name and look randomization (issue [#35](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/35))
 
+## Intro
+
+* Added pause menu
+* Added intro skip (issue [#375](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/375))
+
 ## items
 
 * Fixed coffee money exploit (issue [#325](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/325))
