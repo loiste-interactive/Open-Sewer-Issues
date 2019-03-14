@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added rats.
 * Tenants now add furniture to their apartments.
 * Added new loading screen hint.
 * Added scroll bar to dialogue menu when there is more than four dialogue options (issue [#212](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/212))
