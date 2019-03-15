@@ -14,6 +14,7 @@
 * Fixed not being able to use Shining moon co-op key.
 * Fixed not being able to rent an apartment to Amanda Korhonen.
 * Fixed Mr. Duck not having Mask.
+* Fixed outside ambient sounds not playing after loading the game.
 * Fixed inside ambient sounds playing after going outside.
 * Fixed door animations not working sometimes.
 * Fixed inventory panel not opening automatically when buying from some vendors.
