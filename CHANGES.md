@@ -14,6 +14,7 @@
 * Fixed not being able to use Shining moon co-op key.
 * Fixed not being able to rent an apartment to Amanda Korhonen.
 * Fixed Mr. Duck not having Mask.
+* Fixed inside ambient sounds playing after going outside.
 * Fixed door animations not working sometimes.
 * Fixed inventory panel not opening automatically when buying from some vendors.
 * Fixed tenement status text (issue [#265](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/265))
