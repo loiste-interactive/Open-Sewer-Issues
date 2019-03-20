@@ -22,6 +22,7 @@
 * Fixed the action key resetting dialog when trading. (issue [#334](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/334))
 * Fixed missing zero when people say time. (issue [#376](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/376
 * Fixed stat exploit. (issue [#378](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/378))
+* Fixed elevator (issue [#419](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/419))
 * Fixed not being able to trade with Alcohol trader.
 * Fixed player apartment doors (issue [#401](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/401))
 * Fixed tenement barrel stoves (issue [#400](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/400))
