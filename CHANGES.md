@@ -36,8 +36,13 @@
 
 ## Intro
 
-* Added pause menu
-* Added intro skip (issue [#375](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/375))
+* Added pause menu.
+* Added intro skip. (issue [#375](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/375))
+* Added something to the end. (issue [#269](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/269))
+* Changed start text style.
+* Changed dialogue.
+* Changed camera position.
+* Changed some other small things.
 
 ## items
 
