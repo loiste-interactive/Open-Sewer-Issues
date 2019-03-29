@@ -54,6 +54,7 @@
 * Added "areaportals".
 * Added more detail to Osmo-Olut factory lobby.
 * Added more detail to Rob-in build and repair.
+* Added soundscape to Rob-in build and repair.
 * Fixed some doors opening wrong way.
 * Fixed some doors changing size when opened.
 * Fixed not being able to open some locked doors inside.
