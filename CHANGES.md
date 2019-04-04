@@ -52,6 +52,7 @@
 
 * Added police station.
 * Added "areaportals".
+* Added more detail to rest of the Deekula apartments.
 * Added more detail to Osmo-Olut factory lobby.
 * Added more detail to Rob-in build and repair.
 * Added soundscape to Rob-in build and repair.
