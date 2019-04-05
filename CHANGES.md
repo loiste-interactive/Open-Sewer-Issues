@@ -1,7 +1,6 @@
 # Upcoming
 
 * Added rats.
-* Added computer parts and electronic parts items.
 * Tenants now add furniture to their apartments.
 * Added new loading screen hint.
 * Added scroll bar to dialogue menu when there is more than four dialogue options (issue [#212](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/212))
@@ -48,6 +47,7 @@
 ## items
 
 * Fixed coffee money exploit (issue [#325](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/325))
+* Added computer parts and electronic parts items.
 
 ## level
 
