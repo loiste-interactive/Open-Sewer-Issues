@@ -1,3 +1,9 @@
+# Upcoming
+
+## General
+
+* Fixed Amanda's dialogue blocking game.
+
 # 10.4.2019 (0.1.5) [Untested]
 
 * Added rats.
