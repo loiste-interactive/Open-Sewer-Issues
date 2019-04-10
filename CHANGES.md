@@ -3,6 +3,8 @@
 ## General
 
 * Fixed Amanda's dialogue blocking game.
+* Fixed crypt shrooms.
+* Fixed crypt occlusion.
 
 # 10.4.2019 (0.1.5) [Untested]
 
