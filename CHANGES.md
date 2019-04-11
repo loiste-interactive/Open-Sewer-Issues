@@ -1,15 +1,10 @@
-# Upcoming
+
+# 11.4.2019 (0.1.5)
 
 ## General
 
-* Fixed Amanda's dialogue blocking game.
-* Fixed crypt shrooms.
-* Fixed crypt occlusion.
-* Fixed occlusion isses (issue [#423](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/423))
-
-# 10.4.2019 (0.1.5) [Untested]
-
 * Added rats.
+* Fixed Amanda's dialogue blocking game.
 * Tenants now add furniture to their apartments.
 * Added new loading screen hint.
 * Added scroll bar to dialogue menu when there is more than four dialogue options (issue [#212](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/212))
@@ -73,6 +68,9 @@
 * Fixed storage lockpick message (issue [#406](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/406))
 * Fixed deekula apartment 5B door (issue [#407](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/407))
 * Fixed deekula apartment 7B doors (issue [#409](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/409))
+* Fixed crypt shrooms.
+* Fixed crypt occlusion.
+* Fixed occlusion isses (issue [#423](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/423))
 
 # 26.2.2019 (0.1.4)
 
