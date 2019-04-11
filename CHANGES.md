@@ -5,6 +5,7 @@
 * Fixed Amanda's dialogue blocking game.
 * Fixed crypt shrooms.
 * Fixed crypt occlusion.
+* Fixed occlusion isses (issue [#423](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/423))
 
 # 10.4.2019 (0.1.5) [Untested]
 
