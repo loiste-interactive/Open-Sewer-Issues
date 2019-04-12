@@ -1,4 +1,10 @@
 
+# Upcoming
+
+## Level
+
+* Fixed more occlusion issues. (issue [#423](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/423))
+
 # 11.4.2019 (0.1.5)
 
 ## General
