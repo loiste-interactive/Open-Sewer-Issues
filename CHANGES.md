@@ -1,6 +1,10 @@
 
 # Upcoming
 
+## General
+
+* Rats are now only active near player.
+
 ## Level
 
 * Added map marker for police station.
