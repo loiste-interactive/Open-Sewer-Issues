@@ -6,6 +6,7 @@
 * Fixed more occlusion issues. (issue [#423](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/423))
 * Fixed door missing collisions. (issue [#429](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/429))
 * Fixed door direction. (issue [#428](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/428))
+* Fixed police station use message.
 
 # 11.4.2019 (0.1.5)
 
