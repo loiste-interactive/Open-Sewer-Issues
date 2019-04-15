@@ -4,6 +4,7 @@
 ## General
 
 * Rats are now only active near player.
+* Removed fishes (due performance issues).
 
 ## Level
 
