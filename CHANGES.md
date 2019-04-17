@@ -15,6 +15,10 @@
 * Fixed door direction. (issue [#428](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/428))
 * Fixed police station use message.
 
+## Tenement
+
+* Fixed apartment toilet (issue [#421](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/421))
+
 # 11.4.2019 (0.1.5)
 
 ## General
