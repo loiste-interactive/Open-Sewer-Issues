@@ -9,6 +9,7 @@
 
 ## Level
 
+* Added large occlusion zones.
 * Added map marker for police station.
 * Fixed more occlusion issues. (issue [#423](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/423))
 * Fixed door missing collisions. (issue [#429](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/429))
