@@ -6,6 +6,7 @@
 * Rats are now only active near player.
 * Removed fishes (due performance issues).
 * Fixed "Abandon batch"-button on ovens and breweries.
+* Fixed cathing a rat breaking time.
 
 ## Level
 
