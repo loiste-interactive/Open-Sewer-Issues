@@ -1,4 +1,12 @@
 
+# Upcoming
+
+## Items
+
+* Added shroom lantern item
+* Added diesel can item
+* Addded dynamite item
+
 # 20.4.2019 (0.1.6)
 
 ## General
