@@ -7,6 +7,10 @@
 * Added diesel can item
 * Addded dynamite item
 
+## Level
+
+* Added autosave when leaving inspector booth.
+
 # 20.4.2019 (0.1.6)
 
 ## General
