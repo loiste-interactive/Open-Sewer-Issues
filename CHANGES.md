@@ -6,6 +6,7 @@
 * Added shroom lantern item
 * Added diesel can item
 * Addded dynamite item
+* Fixed piggybank exploit
 
 ## Level
 
