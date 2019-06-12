@@ -1,6 +1,10 @@
 
 # Upcoming
 
+## General
+
+* Improved framerate
+
 ## Items
 
 * Added shroom lantern item
