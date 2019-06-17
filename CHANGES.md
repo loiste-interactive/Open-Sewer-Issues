@@ -3,7 +3,12 @@
 
 ## General
 
+* Added more dialogue.
 * Improved framerate
+
+## Mainmenu
+
+* Fixed random names not being saved. (issue [#425](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/425))
 
 ## Items
 
