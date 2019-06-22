@@ -5,6 +5,7 @@
 
 * Added more dialogue.
 * Improved framerate
+* Fixed player getting stuck in Prison (issue [#439](https://github.com/loiste-interactive/Open-Sewer-Issues/issues/439))
 
 ## Mainmenu
 
