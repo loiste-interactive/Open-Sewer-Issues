@@ -1,4 +1,21 @@
 
+# Upcoming
+
+## General
+
+* Completely redesigned levels.
+* Split mainlevel into smaller more detailed levels.
+* Added simple skillsystem for crafting.
+* Added possibility to fail crafting on some recipes.
+
+## Bazaar
+
+* Added Bazaar level
+
+## Tenement
+
+* Added Tenement level
+
 # 24.6.2019 (0.1.7)
 
 ## General
